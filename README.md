@@ -2,7 +2,7 @@
 Use this template to describe and document your engineering project.
 
 <!-- cool project cover image -->
-![Project Image](https://www.example.com)
+![Project Cover Image](/media/project-cover-img.jpg)
 
 **Team Members**
 - [Member 1](name@emial.com)
