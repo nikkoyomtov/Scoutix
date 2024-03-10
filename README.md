@@ -4,6 +4,19 @@ Use this template to describe and document your engineering project.
 <!-- cool project cover image -->
 ![Project Cover Image](/media/project-cover-img.jpg)
 
+<!-- table of content -->
+## Table of Contents
+- [The Team](#the-team)
+- [Project Description](#project-description)
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installing](#installing)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Built With](#built-with)
+- [Acknowledgments](#acknowledgments)
+
+## 👥 The Team 
 **Team Members**
 - [Member 1](name@emial.com)
 - [Member 2](name@emial.com)
@@ -51,16 +64,11 @@ Explain what these tests test and why
 
     Give an example
 
-### Style test
-Checks if the best practices and the right coding style has been used.
-
-    Give an example
-
 ## 🚀 Deployment
 Add additional notes on how to deploy this on a live system
 
 ## ⚙️ Built With
-  - [Based on the amazing work of reserch group xxxx](https://www.example.com) - The web framework used
+  - [Based on the amazing work of reserch group xxxx](https://www.example.com)
   - [Contributor Covenant](https://www.contributor-covenant.org/) - Used for the Code of Conduct
   - [Creative Commons](https://creativecommons.org/) - Used to choose the license
 
@@ -69,4 +77,3 @@ Add additional notes on how to deploy this on a live system
   - Hat tip to anyone whose code is used
   - Inspiration
   - etc
-
