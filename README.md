@@ -1,23 +1,72 @@
-# 💡 My Project Idea
-Use this template to describe and document your project ideas.
+# 💡 Project Title
+Use this template to describe and document your engineering project.
 
-## 🦮 Working Guidelines
- - Find a Partner - Choose wisely, you will be working together for the next couple 
-of weeks.
-- You can stay with the same partner you had during the ideation workshop or find a new one.
-- In pairs, decide on an idea for a “Warmup Project”. This can be an idea you came up with during the ideation session or a completely new one. You can use the brainstorming techniques we learned, to come up with more ideas 
-- There is an online version of the ideation cards we used: https://www.creativecards.app pass: dlx2020.
-- Based on this Idea, think about a simple but exciting application/device that gets an input, analyses, applies filters, classifies, or manipulates it in another way and generates an output in the digital or the physical worlds.
-- Summarize it in a few simple words, so you can present it in one minute to your peers. 
+<!-- cool project cover image -->
+![Project Image](https://www.example.com)
 
-## ☝️ Clarifications
-- We value a go-getter approach and out-of-the-box thinking
-- Don't worry to dream big and shoot for the moon
-- We will help you to converge your ideas and bring them back to earth
-- You will break down your idea into smaller and simple tasks achievable in a few weeks time
+**Team Members**
+- [Member 1](name@emial.com)
+- [Member 2](name@emial.com)
 
-## 🧰 3 Sample Project ideas
-- A pet classifier that can distinguish between pictures of cats and dogs
-- Create a map showing the location of all the happy people around Israel
-- Detect when the lecturer is discussing a certain topic (Mathematics) during the class
+**Supervisor**
+- [Supervisor](wwww.link_to_lab.com)
+
+
+## 📚 Project Description
+- A brief description of the project/challange, what it does, and how it works.
+- A list of the main features and functionalities of the project.
+- A list of the main components of the project.
+- A list of the main technologies used in the project.
+
+
+## ⚡ Getting Started
+
+These instructions will give you a copy of the project up and running on
+your local machine for development and testing purposes. 
+
+### 🧱 Prerequisites
+Requirements for the software and other tools to build, test and push 
+- [Example 1](https://www.example.com)
+- [Example 2](https://www.example.com)
+
+### 🏗️ Installing
+A step by step series of examples that tell you how to get a development environment running
+
+Say what the step will be
+
+    Give the example
+
+And repeat
+
+    until finished
+
+End with an example of getting some data out of the system or using it
+for a little demo
+
+## 🧪 Testing
+Explain how to run tests for this project
+
+### Sample Tests
+Explain what these tests test and why
+
+    Give an example
+
+### Style test
+Checks if the best practices and the right coding style has been used.
+
+    Give an example
+
+## 🚀 Deployment
+Add additional notes on how to deploy this on a live system
+
+## ⚙️ Built With
+  - [Based on the amazing work of reserch group xxxx](https://www.example.com) - The web framework used
+  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used for the Code of Conduct
+  - [Creative Commons](https://creativecommons.org/) - Used to choose the license
+
+
+## 🙏 Acknowledgments
+  - Hat tip to anyone whose code is used
+  - Inspiration
+  - etc
 
