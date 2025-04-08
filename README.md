@@ -2,7 +2,7 @@
 Autonomous Navigation and Object Detection Robot for Indoor Environments
 
 <!-- cool project cover image -->
-![Project Cover Image](/media/project-cover-img.jpg)
+![Project Cover Image](/media/A2C.jpg)
 
 <!-- table of content -->
 ## Table of Contents
