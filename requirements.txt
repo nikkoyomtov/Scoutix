@@ -6,4 +6,3 @@ gymnasium
 time
 math
 random
-TrainingLogger
